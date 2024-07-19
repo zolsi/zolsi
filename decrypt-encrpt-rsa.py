@@ -30,7 +30,7 @@ while (e < phi):
 		e = e+1
 
 # choosing d such that it satisfies
-# d*e = 1 + k * totient
+# d*e = 1 + k * totient or euler function can be called it count the 
 
 k = 2
 d = (1 + (k*phi))/e
